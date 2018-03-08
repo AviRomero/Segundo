@@ -1,0 +1,3 @@
+/home/laura/clase 4/Lau practica/build/CMakeFiles/rebuild_cache.dir
+/home/laura/clase 4/Lau practica/build/CMakeFiles/edit_cache.dir
+/home/laura/clase 4/Lau practica/build/CMakeFiles/hello.dir
